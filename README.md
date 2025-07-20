@@ -22,7 +22,7 @@ The notebooks included:
 
 ## 🛠️ Tech Stack
 
-**- Python 
+- Python 
 - Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
 - Jupyter Notebook
-**
+
